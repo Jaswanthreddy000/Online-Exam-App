@@ -1,0 +1,53 @@
+[
+    {
+      "question": "What is the capital of France?",
+      "options": ["London", "Paris", "Berlin", "Rome"],
+      "correctAnswer": "Paris"
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Mars", "Venus", "Mercury", "Jupiter"],
+      "correctAnswer": "Mars"
+    },
+    {
+      "question": "Who wrote 'To Kill a Mockingbird'?",
+      "options": ["J.K. Rowling", "Harper Lee", "Stephen King", "Mark Twain"],
+      "correctAnswer": "Harper Lee"
+    },
+    {
+      "question": "What is the chemical symbol for water?",
+      "options": ["H2O", "CO2", "O2", "NaCl"],
+      "correctAnswer": "H2O"
+    },
+    {
+      "question": "What is the largest mammal in the world?",
+      "options": ["Elephant", "Blue Whale", "Giraffe", "Hippopotamus"],
+      "correctAnswer": "Blue Whale"
+    },
+    {
+      "question": "Which country is known as the 'Land of the Rising Sun'?",
+      "options": ["China", "India", "Japan", "South Korea"],
+      "correctAnswer": "Japan"
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "options": ["Vincent van Gogh", "Leonardo da Vinci", "Pablo Picasso", "Michelangelo"],
+      "correctAnswer": "Leonardo da Vinci"
+    },
+    {
+      "question": "What is the currency of Brazil?",
+      "options": ["Peso", "Euro", "Dollar", "Real"],
+      "correctAnswer": "Real"
+    },
+    {
+      "question": "What is the tallest mountain in the world?",
+      "options": ["Mount Everest", "K2", "Kangchenjunga", "Lhotse"],
+      "correctAnswer": "Mount Everest"
+    },
+    {
+      "question": "Who is known as the 'Father of Computer Science'?",
+      "options": ["Alan Turing", "Bill Gates", "Steve Jobs", "Tim Berners-Lee"],
+      "correctAnswer": "Alan Turing"
+    }
+  ]
+  
